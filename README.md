@@ -1,1 +1,0 @@
-# calgarysoftwarecrafters.github.io
