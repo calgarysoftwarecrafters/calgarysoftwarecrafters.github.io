@@ -37,7 +37,7 @@
   Link: </component---cache-caches-gatsby-plugin-offline-app-shell-js-5d3c7651f6ddd1a1d5b8.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
-/my-second-post/
+/functional-programming-with-mike-stockdale/
   Link: </webpack-runtime-0b7c82041a2e2f766cee.js>; rel=preload; as=script
   Link: </framework-ca53a2346770e5ea01f9.js>; rel=preload; as=script
   Link: </b637e9a5-ad0280b023895ac2295a.js>; rel=preload; as=script
@@ -45,7 +45,7 @@
   Link: </c0236b323238a5fa5909d22b2c74857774b62b01-c416eae2529c12f56436.js>; rel=preload; as=script
   Link: </component---src-templates-template-tsx-4be3bc62d22db54a3f00.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/my-second-post/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/functional-programming-with-mike-stockdale/page-data.json>; rel=preload; as=fetch; crossorigin
 /awesome-automation-testing-with-koyel-nandi/
   Link: </webpack-runtime-0b7c82041a2e2f766cee.js>; rel=preload; as=script
   Link: </framework-ca53a2346770e5ea01f9.js>; rel=preload; as=script
