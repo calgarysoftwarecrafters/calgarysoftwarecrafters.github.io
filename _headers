@@ -80,6 +80,16 @@
   Link: </component---src-templates-template-tsx-4be3bc62d22db54a3f00.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/vaugh-vernon-reactive-ddd/page-data.json>; rel=preload; as=fetch; crossorigin
+/david-bernstein-5-developer-practices/
+  Link: </webpack-runtime-af726b3470b02c8e5665.js>; rel=preload; as=script
+  Link: </framework-9cbedb422c54c9f79241.js>; rel=preload; as=script
+  Link: </b637e9a5-ad0280b023895ac2295a.js>; rel=preload; as=script
+  Link: </dc6a8720040df98778fe970bf6c000a41750d3ae-383eabbc5f64a15b2fcd.js>; rel=preload; as=script
+  Link: </app-e5216ecb690815491758.js>; rel=preload; as=script
+  Link: </c0236b323238a5fa5909d22b2c74857774b62b01-c416eae2529c12f56436.js>; rel=preload; as=script
+  Link: </component---src-templates-template-tsx-4be3bc62d22db54a3f00.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/david-bernstein-5-developer-practices/page-data.json>; rel=preload; as=fetch; crossorigin
 /about/
   Link: </webpack-runtime-af726b3470b02c8e5665.js>; rel=preload; as=script
   Link: </framework-9cbedb422c54c9f79241.js>; rel=preload; as=script
