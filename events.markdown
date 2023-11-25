@@ -1,9 +1,8 @@
 ---
 layout: page
-title:  "Events"
+title:  "Event Types"
 permalink: /events/
 ---
-# Event Types
 
 ### Intro to Ensemble and TDD
 - **Description:** This beginner-friendly session introduces ensemble programming and test-driven development (TDD). Learn to collaboratively code in real-time, discuss code, and grasp the basics of the red-green-refactor cycle by writing tests first. Whether you prefer to observe or dive into coding, all levels of participation are encouraged.

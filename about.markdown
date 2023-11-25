@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About
+title: "About Us"
 permalink: /about/
 ---
-# About Us
 We are software developers who know that the art of crafting quality code stems from dedicated practice. What sets us apart is our belief that writing code collaboratively not only enhances its quality but also makes the process more enjoyable.
 
 Our primary goal is to foster a tight-knit community of developers who champion each other's growth by learning new skills together. Our gatherings are diverse, featuring guest speakers and interactive sessions where we collectively practice and refine both new and existing abilities.

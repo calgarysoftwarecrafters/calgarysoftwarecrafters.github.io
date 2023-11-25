@@ -30,6 +30,7 @@ remote_theme: hydecorp/hydejack@v9.1.6
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-paginate
 
 menu:
   - title: About Us
@@ -37,6 +38,8 @@ menu:
   - title: Events
     url:   /events/
 
+paginate:      10
+paginate_path: '/:num/'
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
