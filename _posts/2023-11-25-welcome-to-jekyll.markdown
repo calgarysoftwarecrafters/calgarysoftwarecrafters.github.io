@@ -1,29 +1,26 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Events"
 date:   2023-11-25 11:16:04 -0700
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+# Event Types
 
-Jekyll requires blog post files to be named according to the following format:
+### Intro to Ensemble and TDD
+- **Description:** This beginner-friendly session introduces ensemble programming and test-driven development (TDD). Learn to collaboratively code in real-time, discuss code, and grasp the basics of the red-green-refactor cycle by writing tests first. Whether you prefer to observe or dive into coding, all levels of participation are encouraged.
+  
+### Code Challenges
+- **Description:** Beyond the intro to TDD, these sessions involve tackling specific problems as a group using mob programming. We strongly encourage active participation and provide a safe space for experimentation and learning from failures. To participate in code challenge events, we recommend having attended at least one Intro to Ensembling and TDD session or a previous code challenge event with our club, to be familiar with our norms and specific flavor of ensembling.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+### Speaker Sessions
+- **Description:** Hear from both local and global world-class developers. These sessions cover diverse technical topics, followed by Q&A opportunities.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+### Participation Guidelines
 
-Jekyll also offers powerful support for code snippets:
+To maintain our supportive environment, we ask attendees to:
+- Treat each other with kindness, consideration, and respect.
+- Use cameras if possible for better communication.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+## Join Us!
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Check our [Meetup page](https://www.meetup.com/calgary-software-crafters/) for upcoming events and specific details on timings and locations!
