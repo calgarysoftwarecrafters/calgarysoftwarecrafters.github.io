@@ -1,8 +1,7 @@
 ---
 layout: page
 title:  "Events"
-date:   2023-11-25 11:16:04 -0700
-categories: jekyll update
+permalink: /events/
 ---
 # Event Types
 
