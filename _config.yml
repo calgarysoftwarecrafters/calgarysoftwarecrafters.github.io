@@ -40,6 +40,8 @@ menu:
 
 paginate:      10
 paginate_path: '/:num/'
+accent_image: /assets/sidebar.png
+accent_color: rgb(79,177,186)
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
