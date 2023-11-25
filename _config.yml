@@ -23,15 +23,12 @@ email: calgary.software.crafters@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   We are software developers who know that writing quality code comes from deliberate practice. 
   We find that writing code together makes it more fun and better quality than going it alone.
-  Our meetings include guest speakers and opportunities to practice new skills and hone old 
-  ones. We use Test Driven Development while coding in pairs to tackle short programming 
-  challenges, called katas. Whether you have a favourite programming language, IDE, OS, or 
+  Whether you have a favourite programming language, IDE, OS, or 
   testing framework, or you’re completely new to code, it doesn’t matter. If you bring your 
   imagination, curiosity and a computer, you are welcome.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://calgarysoftwarecrafters.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  calgarysoftwarecrafters
 
 # Build settings
 theme: minima
